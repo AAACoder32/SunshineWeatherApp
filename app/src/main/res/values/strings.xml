@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SunShineWeather</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="search">Search</string>
+	<string name="error_message">Failed to get results.Please try again.</string>
+	<string name="detail_activity">Details</string>
+	<string name="share">Share weather details</string>
+	
+	<string name="today">Today</string>
+	<string name="tomorrow">Tomorrow</string>
+</resources>

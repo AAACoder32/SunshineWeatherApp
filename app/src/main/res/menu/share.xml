@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/share_weather_data"
+        android:title="@string/share"
+		android:orderInCategory="1"/>
+    
+</menu>
